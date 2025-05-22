@@ -1,7 +1,7 @@
 READ.ME
 
 
-
+See file "1046275_A16730S1" for the full project report.
 
 
 To produce the X-ray emission spectrum, run the file "spectrum.py"
